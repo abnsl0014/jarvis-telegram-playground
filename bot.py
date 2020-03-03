@@ -1,7 +1,7 @@
 import telebot
 import xkcd
 
-API_TOKEN = '<api_token>'
+API_TOKEN = '1146350925:AAF-B8AFb_mwJjoEHrnD0piOMpQJDZhg8j0'
 
 bot = telebot.TeleBot(API_TOKEN)
 
